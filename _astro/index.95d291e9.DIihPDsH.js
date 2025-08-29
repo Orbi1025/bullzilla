@@ -1,0 +1,33 @@
+const o = "_collapse_j2lce_1",
+  n = "_expanded_j2lce_24",
+  t = {
+    collapse: o,
+    "top-button": "_top-button_j2lce_6",
+    "dropdown-icon": "_dropdown-icon_j2lce_14",
+    expanded: n,
+    "collapse-body": "_collapse-body_j2lce_28",
+    "collapse-inner": "_collapse-inner_j2lce_33",
+  },
+  e = "_title_icoo0_8",
+  c = {
+    "countdown-container": "_countdown-container_icoo0_1",
+    title: e,
+    "time-container": "_time-container_icoo0_12",
+    "countdown-colon": "_countdown-colon_icoo0_19",
+    "countdown-item": "_countdown-item_icoo0_24",
+    "countdown-value": "_countdown-value_icoo0_33",
+    "countdown-label": "_countdown-label_icoo0_40",
+  },
+  _ = "_labels_904pn_1",
+  l = "_line_904pn_18",
+  a = {
+    labels: _,
+    "label-container": "_label-container_904pn_6",
+    line: l,
+    "line-start": "_line-start_904pn_38",
+    "line-end": "_line-end_904pn_44",
+    "token-label": "_token-label_904pn_60",
+    "total-text": "_total-text_904pn_65",
+    "label-text": "_label-text_904pn_88",
+  };
+export { t as a, a as b, c };
